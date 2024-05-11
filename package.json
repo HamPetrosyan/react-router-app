@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://HamPetrosyan.github.io/React-Router-App",
+  "homepage": "https://HamPetrosyan.github.io/react-router-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
